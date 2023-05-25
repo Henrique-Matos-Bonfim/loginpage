@@ -104,7 +104,7 @@ body *{
 .btn-login:hover{
     background: #00ee77;
 }
-.btn-login:actived{
+.btn-login:active{
     background: #00ed66;
     transform: scale(0.9);
 }
